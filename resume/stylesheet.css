@@ -1,0 +1,37 @@
+    body{
+    background-color: #ffc8dd;
+    background-image: linear-gradient(#ffc8dd, rgb(203, 232, 255));
+    margin: 10%;
+    font-family: "Montserrat", sans-serif;
+    }
+   h1 {
+    text-align:center;
+    font-weight: bold;
+    font-size: 50px;
+    text-transform: uppercase;
+    color:#191315
+   }
+   h2 {
+    color: #191315;
+    font-size: 1.5em;
+   }
+   h3{
+    color: #191315;
+    font-size: 1.2;
+   }
+   div img{
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    padding: 5px;
+   }
+   div img:hover {
+    box-shadow: 0 0 2px 1px rgba(70, 61, 92, 0.5);
+   }
+   #logo{
+       border:0px;
+       display: block;
+       margin-left: 19%;
+       margin-right: 50%;
+       width: 50%;
+   }
+   
